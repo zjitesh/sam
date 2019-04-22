@@ -6,5 +6,9 @@ public class AddTwoNumbers {
       sum = num1 + num2;
 System.out("change ");
       System.out.println("Sum of these numbers: "+sum);
+      mul = num1 * num2;
+System.out("change ");
+      System.out.println("Sum of these numbers: "+sum);
+      
    }
 }
